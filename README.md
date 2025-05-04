@@ -12,5 +12,4 @@
 - **Telegram**: [@Angelina123547](https://t.me/Angelina123547)
 - **WhatsApp**: [+380689461450](https://wa.me/380689461450)
 
-## Створено з метою залучення клієнтів.  
-Сайт доступний за адресою: `https://apple123w.github.io`
+index.html
